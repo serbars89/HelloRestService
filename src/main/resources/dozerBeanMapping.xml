@@ -4,11 +4,6 @@
           xsi:schemaLocation="http://dozer.sourceforge.net
           http://dozer.sourceforge.net/schema/beanmapping.xsd">
 
-    <!--<mapping>-->
-        <!--<class-a>Contact</class-a>-->
-        <!--<class-b>ContactDTO</class-b>-->
-    <!--</mapping>-->
-
 
     <mapping>
         <class-a>hello_rest_service.model.Contact</class-a>
